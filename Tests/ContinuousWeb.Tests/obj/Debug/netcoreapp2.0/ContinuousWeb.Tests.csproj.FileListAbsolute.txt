@@ -1,0 +1,16 @@
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/ContinuousWeb.Tests.deps.json
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/ContinuousWeb.Tests.runtimeconfig.json
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/ContinuousWeb.Tests.runtimeconfig.dev.json
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/ContinuousWeb.Tests.dll
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/ContinuousWeb.Tests.pdb
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/ContinuousWeb.dll
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/bin/Debug/netcoreapp2.0/ContinuousWeb.pdb
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/obj/Debug/netcoreapp2.0/ContinuousWeb.Tests.csproj.CoreCompileInputs.cache
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/obj/Debug/netcoreapp2.0/ContinuousWeb.Tests.AssemblyInfoInputs.cache
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/obj/Debug/netcoreapp2.0/ContinuousWeb.Tests.AssemblyInfo.cs
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/obj/Debug/netcoreapp2.0/ContinuousWeb.Tests.csproj.CopyComplete
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/obj/Debug/netcoreapp2.0/ContinuousWeb.Tests.dll
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/Tests/ContinuousWeb.Tests/obj/Debug/netcoreapp2.0/ContinuousWeb.Tests.pdb
