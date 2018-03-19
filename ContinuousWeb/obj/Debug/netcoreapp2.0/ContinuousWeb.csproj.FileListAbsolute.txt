@@ -1,0 +1,10 @@
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/bin/Debug/netcoreapp2.0/ContinuousWeb.deps.json
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/bin/Debug/netcoreapp2.0/ContinuousWeb.runtimeconfig.json
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/bin/Debug/netcoreapp2.0/ContinuousWeb.runtimeconfig.dev.json
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/bin/Debug/netcoreapp2.0/ContinuousWeb.dll
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/bin/Debug/netcoreapp2.0/ContinuousWeb.pdb
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/obj/Debug/netcoreapp2.0/ContinuousWeb.csproj.CoreCompileInputs.cache
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/obj/Debug/netcoreapp2.0/ContinuousWeb.AssemblyInfoInputs.cache
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/obj/Debug/netcoreapp2.0/ContinuousWeb.AssemblyInfo.cs
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/obj/Debug/netcoreapp2.0/ContinuousWeb.dll
+/home/alfredo/edx/AzureAppServiceConfiguration/Mod3/lab1/continuousdeployment/ContinuousWeb/obj/Debug/netcoreapp2.0/ContinuousWeb.pdb
