@@ -24,9 +24,9 @@ namespace ContinuousWeb.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
+            throw new NotImplementedException();
+            //ViewData["Message"] = "Your contact page.";
+            //return View();
         }
 
         public IActionResult Error()
